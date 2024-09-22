@@ -1,0 +1,22 @@
+td{
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+.num{
+    font-size: 10px;
+    line-height: 0px;
+    font-weight: bold;
+}
+.name{
+    line-height: 0px;
+    font-weight: bold;
+}
+body{
+    background: bisque;
+}
+
+.catorgies{
+    background: lightblue;
+    border-radius: 5px;
+}
